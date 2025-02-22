@@ -1,0 +1,24 @@
+{
+  "name": "terminal-image-renderer",
+  "version": "0.0.1",
+  "main": "terminal-image-renderer.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpstreetAI/terminal-image-renderer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UpstreetAI/terminal-image-renderer/issues"
+  },
+  "homepage": "https://github.com/UpstreetAI/terminal-image-renderer#readme",
+  "description": "",
+  "dependencies": {
+    "@jimp/utils": "^1.6.0",
+    "chalk": "^5.4.1",
+    "jimp": "^1.6.0"
+  }
+}
