@@ -1,6 +1,6 @@
 {
   "name": "terminal-image-renderer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "terminal-image-renderer.mjs",
   "types": "terminal-image-renderer.d.ts",
   "type": "module",
